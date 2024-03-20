@@ -1,0 +1,2 @@
+This data is for  the paper "Simultaneous Observations of Strong Spread F and Nighttime Ionospheric Enhancement at Midlatitude Region under Geomagnetically Quiet Conditions". 
+First, please unzip the Zhy.zip, then  run the matlab file "a_study_for_midlatitude_strong_spread_F.m" to use and show the data in this study.
